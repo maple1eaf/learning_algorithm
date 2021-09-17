@@ -12,7 +12,7 @@
 
 ## Data Structure
 - MinHeap: [link](../algoExpert/min_heap_construction/solution.ipynb)
-- Liked List: [link](../algoExpert/linked_list/solution.ipynb)
+- Liked List: [link](../algoExpert/linked_list_construction/solution.ipynb)
 - LRU Cache: [link](../algoExpert/lru_cache/solution.ipynb)
 
 ## Named Algorithm
